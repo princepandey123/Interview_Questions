@@ -1,4 +1,7 @@
-/// https://leetcode.com/problems/longest-common-prefix/
+// https://leetcode.com/problems/longest-common-prefix/
+
+//Time Complexity :->O(mn) where m is the length of smallest string and n is total no of string  
+//Space Complexity :->O(m) in worst case 
 
 /*
 Example :->
