@@ -1,5 +1,8 @@
 /// https://leetcode.com/problems/length-of-last-word/
 
+//Time Complexity :->O(N)
+//Space Complexity :->O(1)
+
 //Approach 1:-> Reverse the string and we have to finds the length of first word
 //Approach 2 :-> start implementing from the end of string 
 //Approach 3 :-> start iterating from the first 
