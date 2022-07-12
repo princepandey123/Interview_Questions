@@ -1,4 +1,9 @@
 /// https://leetcode.com/problems/valid-palindrome-ii/
+
+// Time Complexity :->O(N)
+//space complexity :->O(1)
+
+
 class Solution {
 public:
     
@@ -34,7 +39,7 @@ public:
             e--;
         }
         
-        /// string is already palin
+        /// string is already palindrome
         return true;
     }
 };
